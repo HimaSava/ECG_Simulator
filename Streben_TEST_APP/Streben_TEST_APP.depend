@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1546300327 source:g:\streben_test_app\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1546415140 source:g:\code\streben_test_app\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
